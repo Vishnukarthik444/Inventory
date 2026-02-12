@@ -8,7 +8,6 @@ This project demonstrates practical usage of:
 - File handling (CSV)
 - Data structures (vector)
 - Modular design
-- Git version control
 
 ---
 
