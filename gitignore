@@ -1,0 +1,8 @@
+# compiled binary
+inventory
+
+# mac files
+.DS_Store
+
+# csv runtime data
+inventory.csv
